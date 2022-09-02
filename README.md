@@ -1,4 +1,18 @@
 <!DOCTYPE html>
+<head>
+  <!-- META TAGS -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS -->
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+  <!-- SCRIPTS -->
+  <script src="./script.js"></script>
+  <script src="https://kit.fontawesome.com/1a8bde6767.js" crossorigin="anonymous"></script>
+  <!-- TITLE -->
+  <title>Michael Vliegs</title>
+</head>
 # makeDemo
 
 This demo was copied from <https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/>.
