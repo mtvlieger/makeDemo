@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # makeDemo
 
 This demo was copied from <https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/>.
